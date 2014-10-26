@@ -19,4 +19,4 @@ in the following order:
 * Creates a second, independent tidy data set with the average
   of each variable for each activity and each subject
   
-* Writes data set
+* Writes data set to 'dat.txt'
